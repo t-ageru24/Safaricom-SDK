@@ -11,7 +11,6 @@ Safaricom-SDK/
 │── 📄 index.js          # Entry point
 │── 📄 package.json      # Project metadata & dependencies
 │── 📄 README.md         # Documentation
-│── 📄 .env.example      # Environment variable template
 
 ## Installation
 ```sh
